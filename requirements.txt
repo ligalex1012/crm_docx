@@ -1,0 +1,5 @@
+# Telegram Bot
+aiogram==3.15.0
+
+# Word documents (.docx)
+python-docx==1.1.2
